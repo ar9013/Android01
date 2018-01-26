@@ -1,0 +1,8 @@
+%YAML:1.0
+rows: 800
+cols: 600
+descType: "0"
+keyAlgorithm: ORB
+descAlgorithm: FREAK
+keyFilename: "/data/data/net.crystax.examples.testboost/keypoints/024.yaml.bin"
+descFilename: "/data/data/net.crystax.examples.testboost/descriptors/024.bin"
